@@ -25,7 +25,7 @@ Proyek ini mengimplementasikan pemodelan Graf Properti (Property Graph) mengguna
 
 ---
 
-## 📂Struktur Direktori
+## Struktur Direktori
 
 ```text
 .
@@ -44,7 +44,7 @@ Proyek ini mengimplementasikan pemodelan Graf Properti (Property Graph) mengguna
 
 ---
 
-## ⚙️ Persiapan & Instalasi Environment
+## Persiapan & Instalasi Environment
 
 ### 1. Membuat & Mengaktifkan Virtual Environment
 Gunakan `venv` atau `uv` (diuji dengan Python 3.10.7):
@@ -73,7 +73,7 @@ uv pip install -r requirements.txt
 
 ---
 
-## 🚀 Langkah Impor Data ke Neo4j
+## Langkah Impor Data ke Neo4j
 
 Sebelum menjalankan script impor, pastikan instance Neo4j Database Anda sudah berjalan.
 
@@ -87,7 +87,7 @@ python scripts/import_retailrocket.py -u neo4j -p PASSWORD_NEO4J_ANDA -b neo4j:/
 
 ---
 
-## 📝 Ringkasan Jawaban & Analisis UTS
+## Ringkasan Jawaban & Analisis UTS
 
 ### 1. Tugas Pendahuluan (Checkpoint)
 1. **Nama Database:** `neo4j` (atau disesuaikan dengan database custom seperti `utsretailrocket`).
